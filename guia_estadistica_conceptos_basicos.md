@@ -87,6 +87,4 @@ Son aquellas en las que la selección de las unidades **no se basa en el azar**,
 | **Se presenta en** | Solo en estudios por muestreo. | Tanto en censos como en muestreos. |
 | **Se puede medir/controlar** | Sí, mediante fórmulas estadísticas (se reduce aumentando el tamaño de muestra). | Es más difícil de medir y de controlar; requiere buen diseño del instrumento, capacitación de encuestadores y control de calidad. |
 
----
 
-*Guía elaborada como material de repaso. Si necesitas ejemplos aplicados, ejercicios prácticos o que profundicemos en algún punto en particular, con gusto lo desarrollamos.*
